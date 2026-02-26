@@ -1,4 +1,4 @@
-# RFC-QA-001  
+# QA-001  
 ## Actividad Evaluativa – Calidad de Software (15%)
 
 **Estado:** Final  
