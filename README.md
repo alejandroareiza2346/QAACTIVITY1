@@ -1,73 +1,74 @@
-# QA-001  
-## Actividad Evaluativa – Calidad de Software (15%)
+# RFC-QA-001  
+## Evaluative Activity – Software Quality (15%)
 
-**Estado:** Final  
-**Autor:** Alejandro Ariza  
-**Programa:** Ingeniería Informática  
-**Universidad:** Universidad Autónoma Latinoamericana  
-**Asignatura:** Calidad de Software  
-**Fecha:** Febrero 2026  
-
----
-
-## 1. Propósito
-
-El presente documento define y sustenta el análisis académico relacionado con el costo de no certificar procesos de calidad en un producto de software, considerando estándares internacionales y buenas prácticas reconocidas en la industria.
+**Status:** Final  
+**Author:** Alejandro Ariza  
+**Program:** Computer Engineering  
+**University:** Universidad Autónoma Latinoamericana  
+**Course:** Software Quality  
+**Date:** February 2026  
 
 ---
 
-## 2. Alcance
+## 1. Purpose
 
-Este trabajo aplica a entornos de desarrollo de software que buscan asegurar:
-- Calidad del producto
-- Confianza del cliente
-- Reducción de riesgos operativos
-- Cumplimiento de estándares internacionales
-
-No incluye implementación técnica ni certificación formal, únicamente análisis conceptual y crítico.
+This document defines and supports the academic analysis related to the cost of not certifying quality processes in a software product, considering international standards and recognized industry best practices.
 
 ---
 
-## 3. Marco Normativo de Referencia
+## 2. Scope
 
-- International Software Testing Qualification Board (ISTQB)
-- ISO 9001:2015
-- ISO/IEC 25010 (Modelo de Calidad del Producto Software)
+This work applies to software development environments seeking to ensure:
 
----
+- Product quality  
+- Customer trust  
+- Reduction of operational risks  
+- Compliance with international standards  
 
-## 4. Problema Identificado
-
-La ausencia de certificación en procesos de calidad genera:
-
-- Incremento de fallos en producción  
-- Riesgos financieros y reputacionales  
-- Pérdida de competitividad  
-- Costos de corrección tardía  
+It does not include technical implementation or formal certification, but rather conceptual and critical analysis.
 
 ---
 
-## 5. Justificación Técnica
+## 3. Normative Framework
 
-No someter un producto a estándares formales de calidad implica:
-
-- Falta de validación independiente  
-- Debilidad en la trazabilidad de requisitos  
-- Deficiencias en pruebas estructuradas  
-- Riesgo en la sostenibilidad del software  
-
-Desde una perspectiva de ingeniería, la calidad debe gestionarse de forma preventiva y sistemática.
+- International Software Testing Qualification Board (ISTQB)  
+- ISO 9001:2015  
+- ISO/IEC 25010 (Software Product Quality Model)
 
 ---
 
-## 6. Conclusiones
+## 4. Identified Problem
 
-La certificación en procesos de calidad no debe considerarse un gasto, sino una inversión estratégica.  
-La implementación estructurada de estándares internacionales fortalece la confiabilidad, reduce riesgos y mejora la posición competitiva de la organización.
+The absence of certification in quality processes leads to:
+
+- Increased production failures  
+- Financial and reputational risks  
+- Loss of competitiveness  
+- Higher late-stage correction costs  
 
 ---
 
-## 7. Referencias
+## 5. Technical Justification
+
+Failing to subject a product to formal quality standards implies:
+
+- Lack of independent validation  
+- Weak requirements traceability  
+- Deficiencies in structured testing  
+- Risk to software sustainability  
+
+From an engineering perspective, quality must be managed in a preventive and systematic manner.
+
+---
+
+## 6. Conclusions
+
+Quality process certification should not be considered an expense, but a strategic investment.  
+The structured implementation of international standards strengthens reliability, reduces risk, and improves an organization's competitive positioning.
+
+---
+
+## 7. References
 
 International Software Testing Qualification Board. (2023). *ISTQB Foundation Level Syllabus*.  
 International Organization for Standardization. (2015). *ISO 9001:2015 Quality Management Systems*.  
@@ -75,5 +76,5 @@ ISO/IEC. (2011). *ISO/IEC 25010: Systems and software quality models*.
 
 ---
 
-**Declaración de Autoría:**  
-Este documento fue desarrollado con fines académicos como parte del proceso formativo en Ingeniería Informática.
+**Statement of Authorship:**  
+This document was developed for academic purposes as part of the Computer Engineering academic training process.
